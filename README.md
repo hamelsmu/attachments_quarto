@@ -13,7 +13,7 @@ To reproduce this error:
 
 Upon some investigation, it does indeed appear that Jupyter Lab and Jupyter Classic handle cell attachments differently, which could be causing the issue.  
 
-Questions:
+### Questions:
 1. Is Jupyter Classic supported in Quarto?
 2. Is this something that is possible to fix?
 
