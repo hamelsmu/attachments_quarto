@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "attachments_quarto"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - nb.ipynb
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
